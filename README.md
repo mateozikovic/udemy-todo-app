@@ -1,2 +1,2 @@
 # udemy-todo-app
-Udemy Todo App
+Udemy Todo App with jQuery from Colt Steele course
